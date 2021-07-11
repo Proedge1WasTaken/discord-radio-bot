@@ -1,0 +1,13 @@
+{
+	"prefix":"PREF",
+	"token":"DISCORD BOT TOKEN",
+	"voicechannel":"Hangcsatorna ahova csatlakozzon",
+	"logchannel":"Bot log csatorna",
+	"activity":"Felesleges",
+	"list":[
+	{
+		"name":"Radio 1",
+		"url":"http://stream3.radio1.hu/mid.mp3?synctoken=wFwkm8DM4yz9LB1rg5VK46trFS4okIkTVGvC7AeBrpM"
+	}
+	]
+}

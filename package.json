@@ -1,0 +1,21 @@
+{
+  "name": "RADIOBOT",
+  "version": "Beta 0.1.1",
+  "description": "Alap 24/7 rádió bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.1.0",
+    "cron": "^1.8.2",
+    "discord.js": "^12.1.1",
+    "express": "^4.17.1",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.3.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "icy": "^2.1.0"
+  }
+}
